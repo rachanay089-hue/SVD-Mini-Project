@@ -2,6 +2,13 @@
 
 ## MFAD Mini Project – Mathematical Foundation for AI & Data Science
 
+### 👥 Team Members
+
+- Rachana Y.
+- Ranjani S
+- Sharika Setty H
+- Sannidhi G
+
 ### 📌 Project Overview
 
 This project demonstrates **Singular Value Decomposition (SVD)** and its application to **image compression**.
